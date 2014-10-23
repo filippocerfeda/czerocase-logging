@@ -29,7 +29,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<instructions>
-						<Bundle-SymbolicName>${pom.artifactId}</Bundle-SymbolicName>
+						<Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
 						<Private-Package>org.czerocase.logging</Private-Package>
 						<Bundle-Activator>org.czerocase.logging.Activator</Bundle-Activator>
 					</instructions>
