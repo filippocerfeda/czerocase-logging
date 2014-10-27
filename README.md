@@ -1,8 +1,8 @@
 czerocase-logging
 ==============
 
-Module "logging" for the framework CZeroCase.
-Implementation the logging interface designed in the czerocase-core.
+Module **logging** for the framework **CZeroCase**.
+Implementation the logging interface designed in the [czerocase-core](https://github.com/filippocerfeda/czerocase-core).
 
 
 CZEROCASE Project
